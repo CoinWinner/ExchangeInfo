@@ -39,3 +39,38 @@
 |服务器IP|54.239.168.55|
 |所在国家|United States Seattle |
 |说明|Binance 是全球领先的区块链资产交易平台，为全球区块链爱好者提供多币种、多语言的币币兑换服务|
+
+### Bitmex
+|字段|描述|
+|------ |------|
+|24小时平台成交额|$1,404,419,342|
+|网站|https://www.binance.com/|
+|Twitter|https://twitter.com/BitMEXdotcom|
+|开发文档|https://www.bitmex.com/app/apiOverview|
+|服务器IP|52.17.2.234|
+|所在国家|Ireland Dublin |
+|说明|BitMEX建立于塞舌尔共和国，是最先进的比特币衍生品交易所,对于比特币类产品提供高达100倍的杠杆，同时也提供针对其它数字货币产品的高杠杆|
+
+### OKEX
+|字段|描述|
+|------ |------|
+|24小时平台成交额|$901,963,590|
+|网站|https://www.okex.com/|
+|Twitter|https://www.twitter.com/okcoin|
+|Facebook|https://www.facebook.com/OKExLTD|
+|开发文档|https://www.okex.com/docs/zh/#README|
+|服务器IP|47.75.99.233|
+|所在国家|	United States  	San Mateo |
+|说明|OKEX（www.okex.com）是全球著名的数字资产交易平台之一，主要面向全球用户提供比特币、莱特币、以太币等数字资产的现货和衍生品交易服务，隶属于OKEX Technology Company Limited。|
+
+### Bitfinex
+|字段|描述|
+|------ |------|
+|24小时平台成交额|$367,969,867|
+|网站|https://www.bitfinex.com/|
+|Twitter|https://twitter.com/bitfinex|
+|Facebook|https://www.facebook.com/bitfinex1|
+|开发文档|https://docs.bitfinex.com/docs|
+|服务器IP|104.16.172.181|
+|所在国家|	United States  	 |
+|说明|Bitfinex是全世界最大、最高级的比特币交易平台之一，支持以太坊、比特币、莱特币、以太经典等虚拟币的交易，每天的成交量达30多亿人民币。|
