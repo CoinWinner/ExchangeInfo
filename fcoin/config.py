@@ -5,8 +5,8 @@
 
 
 #秘钥
-key = 'b05a718a05ab450a97967e974cfd2938'
-secret = '274e5492286e4c06a46edc303ada7aa2'
+key = ''
+secret = ''
 
 
 #精度和最小挂单量
